@@ -1,0 +1,23 @@
+#banner{
+    background-image: linear-gradient(to right, #a517ba, #5f1782);
+    color: #fff;
+    padding-top: 5%;
+}
+.promo-tittle{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 100px;
+
+}
+.play{
+    width: 40px;
+    margin: 20px
+}
+
+#banner a{
+    text-decoration: none;
+    color:#fff;
+}
+.wave1{
+    width: 100%;
+}
